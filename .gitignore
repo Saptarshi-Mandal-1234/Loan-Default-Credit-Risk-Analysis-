@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Node (used only for the docx report builder)
+node_modules/
+
+# Tableau temp files
+*.twbx.lock
+*.tds.bak
+
+# Local outputs you may not want tracked (uncomment if desired)
+# reports/business/Credit_Risk_Advisory_Report.pdf

@@ -1,0 +1,9 @@
+persona,count,default_rate,avg_income,avg_loan_amnt,avg_credit_score,pct_of_portfolio,description
+The Overextended Borrower,642,0.73,34830.17,16346.18,363.5,2.0,Loan-to-income ratio above 40%. High debt service burden regardless of grade.
+The High-Risk Applicant,101,0.69,89326.43,15817.33,371.99,0.3,Grade F/G. Very high statistical default probability — reject by default policy.
+The Debt Juggler,952,0.4,43648.43,7789.89,529.97,2.9,Renter consolidating debt. Signals existing financial strain.
+The Repeat Risk,5729,0.38,65608.71,10126.3,555.44,17.7,Has a prior bureau default on file. Requires mandatory manual review regardless of score.
+The Fresh Starter,3013,0.34,40627.49,7566.45,593.52,9.3,"Young (<=26) with limited employment history (<=2y). Thin credit file, moderate risk."
+The Moderate Borrower,8536,0.24,48028.87,7895.51,639.78,26.3,Does not fit a distinct high/low-risk pattern — standard underwriting applies.
+The Established Homeowner,650,0.17,63760.94,9133.15,672.21,2.0,Mortgage holder with 10+ years credit history. Strong stability signal.
+The Steady Earner,12786,0.06,87042.82,10732.92,795.09,39.5,"High grade (A/B), solid income ($50k+). Lowest risk — fast-track approval candidate."

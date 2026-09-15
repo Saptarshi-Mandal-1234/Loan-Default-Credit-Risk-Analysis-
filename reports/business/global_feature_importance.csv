@@ -1,0 +1,11 @@
+feature,coefficient,direction
+loan_percent_income,2.0108312013232768,risk-increasing
+loan_amnt,-0.7221455164334915,risk-decreasing
+debt_to_income_ratio,-0.6967392651938287,risk-decreasing
+loan_grade_D,0.6530340975657899,risk-increasing
+loan_int_rate,0.6521457506183166,risk-increasing
+person_home_ownership_OWN,-0.46943362823738294,risk-decreasing
+loan_grade_E,0.40053359929170435,risk-increasing
+loan_intent_VENTURE,-0.4003816790721131,risk-decreasing
+person_home_ownership_RENT,0.31335960466600776,risk-increasing
+loan_intent_EDUCATION,-0.2739153612658934,risk-decreasing

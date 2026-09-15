@@ -1,0 +1,3 @@
+Scenario,Approval Rate,Revenue (True Approvals),Loss (False Approvals),Forgone Revenue (False Rejects),Net Business Impact
+Current Policy (0.50 threshold),0.6803357092165756,18486845.9425,7630500.0,6509376.945,4346968.997499999
+Optimized Policy (0.59 threshold),0.7408127372026289,20393737.97,10228305.0,4602484.9175,5562948.052499998
