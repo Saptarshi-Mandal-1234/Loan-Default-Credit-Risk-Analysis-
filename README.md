@@ -180,3 +180,6 @@ print(result)
 - Extend explainability with SHAP values
 - Deploy as a real-time scoring API integrated into loan origination systems
 - Add cost-sensitive threshold optimization (business impact calculator)
+
+## Reproducibility and limitations
+See [setup and validation notes](docs/REPRODUCING.md).

@@ -1,0 +1,11 @@
+{
+  "rows": 32409,
+  "metrics": {
+    "accuracy": 0.8057698241283554,
+    "precision": 0.5383132530120482,
+    "recall": 0.7877291960507757,
+    "f1": 0.6395648439736616,
+    "roc_auc": 0.8756613513459315
+  },
+  "limitation": "Historical preprocessing precedes splitting; this verifies the saved baseline, not leakage-free performance."
+}
